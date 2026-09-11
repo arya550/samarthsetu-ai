@@ -1,0 +1,9 @@
+backend/.env
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+server.log
+samarthsetu-ai.zip
+.freebuff/
+.DS_Store
+Thumbs.db
